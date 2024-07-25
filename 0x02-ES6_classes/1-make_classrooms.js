@@ -1,6 +1,4 @@
-/* eslint-disable
- * Creates an array of {@link ClassRoom}s with a specific size.
- */
+/* eslint-disable */
 
 import ClassRoom from './0-classroom';
 
